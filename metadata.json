@@ -1,0 +1,6 @@
+{
+  "name": "nowlisten",
+  "description": "Утилита Live Notification в строке состояния под акцентный цвет обложки трека с быстрым запуском системного медиаплеера.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
