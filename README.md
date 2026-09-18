@@ -1,4 +1,6 @@
-<img src="main/icon.png" width="300" alt="icon">
+<div align="center">
+
+<img src="icon.png" width="120" alt="NowListen Logo">
 
 # nowlisten
 
