@@ -1,6 +1,6 @@
 <div align="center">
 
-![Icon](assets/icon.png)
+<img src="icon.png" width="120" alt="Logo">
 
 # nowlisten
 
